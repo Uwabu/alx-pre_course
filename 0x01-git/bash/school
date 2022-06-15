@@ -1,2 +1,4 @@
 '#!/bin/bash'
 "School"
+-e '#!/bin/bash\necho "school" '
+-e '#!/bin/bash\necho "School"' 
